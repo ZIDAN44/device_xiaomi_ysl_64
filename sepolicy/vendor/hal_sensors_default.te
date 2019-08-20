@@ -1,1 +1,2 @@
 allow hal_sensors_default self:socket read;
+allow hal_sensors_default self:socket read;
